@@ -4,7 +4,6 @@ import android.os.Handler;
 import android.os.Looper;
 import android.view.Gravity;
 import android.widget.Toast;
-
 import org.alex.view.MeiZuToast;
 
 /**

@@ -1,7 +1,6 @@
 package org.alex.util;
 
 import android.app.Application;
-
 import org.alex.helper.CrashHandler;
 
 /**

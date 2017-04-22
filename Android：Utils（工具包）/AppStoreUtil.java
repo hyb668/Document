@@ -3,29 +3,28 @@ package com.alex.mvpapp.util;
 import android.content.Intent;
 import android.net.Uri;
 import android.text.TextUtils;
-
 import org.alex.util.BaseUtil;
 
 /**
- * ×÷Õß£ºAlex
- * Ê±¼ä£º2016/11/8 17:55
- * ¼òÊö£º
+ * ï¿½ï¿½ï¿½ß£ï¿½Alex
+ * Ê±ï¿½ä£º2016/11/8 17:55
+ * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
  */
 public class AppStoreUtil {
     /**
-     * Æô¶¯µ½Ó¦ÓÃÉÌµêappÏêÇé½çÃæ
+     * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó¦ï¿½ï¿½ï¿½Ìµï¿½appï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
      *
-     * @param marketPkg Ó¦ÓÃÉÌµê°üÃû ,Èç¹ûÎª""ÔòÓÉÏµÍ³µ¯³öÓ¦ÓÃÉÌµêÁĞ±í¹©ÓÃ»§Ñ¡Ôñ,·ñÔòµ÷×ªµ½Ä¿±êÊĞ³¡µÄÓ¦ÓÃÏêÇé½çÃæ£¬Ä³Ğ©Ó¦ÓÃÉÌµê¿ÉÄÜ»áÊ§°Ü
+     * @param marketPkg Ó¦ï¿½ï¿½ï¿½Ìµï¿½ï¿½ï¿½ï¿½ ,ï¿½ï¿½ï¿½Îª""ï¿½ï¿½ï¿½ï¿½ÏµÍ³ï¿½ï¿½ï¿½ï¿½Ó¦ï¿½ï¿½ï¿½Ìµï¿½ï¿½Ğ±ï¿½ï¿½Ã»ï¿½Ñ¡ï¿½ï¿½,ï¿½ï¿½ï¿½ï¿½ï¿½×ªï¿½ï¿½Ä¿ï¿½ï¿½ï¿½Ğ³ï¿½ï¿½ï¿½Ó¦ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ£¬Ä³Ğ©Ó¦ï¿½ï¿½ï¿½Ìµï¿½ï¿½ï¿½Ü»ï¿½Ê§ï¿½ï¿½
      */
     public static void launchAppStoreDetail(String marketPkg) {
         launchAppStoreDetail(BaseUtil.app().getPackageName(), marketPkg);
     }
 
     /**
-     * Æô¶¯µ½Ó¦ÓÃÉÌµêappÏêÇé½çÃæ
+     * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó¦ï¿½ï¿½ï¿½Ìµï¿½appï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
      *
-     * @param appPkg    Ä¿±êAppµÄ°üÃû
-     * @param marketPkg Ó¦ÓÃÉÌµê°üÃû ,Èç¹ûÎª""ÔòÓÉÏµÍ³µ¯³öÓ¦ÓÃÉÌµêÁĞ±í¹©ÓÃ»§Ñ¡Ôñ,·ñÔòµ÷×ªµ½Ä¿±êÊĞ³¡µÄÓ¦ÓÃÏêÇé½çÃæ£¬Ä³Ğ©Ó¦ÓÃÉÌµê¿ÉÄÜ»áÊ§°Ü
+     * @param appPkg    Ä¿ï¿½ï¿½Appï¿½Ä°ï¿½ï¿½ï¿½
+     * @param marketPkg Ó¦ï¿½ï¿½ï¿½Ìµï¿½ï¿½ï¿½ï¿½ ,ï¿½ï¿½ï¿½Îª""ï¿½ï¿½ï¿½ï¿½ÏµÍ³ï¿½ï¿½ï¿½ï¿½Ó¦ï¿½ï¿½ï¿½Ìµï¿½ï¿½Ğ±ï¿½ï¿½Ã»ï¿½Ñ¡ï¿½ï¿½,ï¿½ï¿½ï¿½ï¿½ï¿½×ªï¿½ï¿½Ä¿ï¿½ï¿½ï¿½Ğ³ï¿½ï¿½ï¿½Ó¦ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½æ£¬Ä³Ğ©Ó¦ï¿½ï¿½ï¿½Ìµï¿½ï¿½ï¿½Ü»ï¿½Ê§ï¿½ï¿½
      */
     public static void launchAppStoreDetail(String appPkg, String marketPkg) {
         try {
@@ -46,44 +45,44 @@ public class AppStoreUtil {
 
     public static final class MarketPkg {
         /**
-         * ¹È¸èÊĞ³¡
+         * ï¿½È¸ï¿½ï¿½Ğ³ï¿½
          */
         public static final String googlePlay = "com.android.vending";
         /**
-         * ÌÚÑ¶Ó¦ÓÃ±¦
+         * ï¿½ï¿½Ñ¶Ó¦ï¿½Ã±ï¿½
          */
         public static final String tengxun = "com.tencent.android.qqdownloader";
         /**
-         * 360 ÊÖ»úÖúÊÖ
+         * 360 ï¿½Ö»ï¿½ï¿½ï¿½ï¿½ï¿½
          */
         public static final String _360 = "com.qihoo.appstore";
         /**
-         * °Ù¶ÈÓ¦ÓÃÊĞ³¡
+         * ï¿½Ù¶ï¿½Ó¦ï¿½ï¿½ï¿½Ğ³ï¿½
          */
         public static final String baidu = "com.baidu.appsearch";
         /**
-         * Ğ¡Ã×
+         * Ğ¡ï¿½ï¿½
          */
         public static final String xiaomi = "com.xiaomi.market";
         /**
-         * Íã¶¹¼Ô
+         * ï¿½ã¶¹ï¿½ï¿½
          */
         public static final String wandoujia = "com.wandoujia.phoenix2";
         /**
-         * »ªÎª
+         * ï¿½ï¿½Îª
          */
         public static final String huawei = "com.huawei.appmarket";
         /**
-         * ÌÔ±¦ÊÖ»úÖúÊÖ
+         * ï¿½Ô±ï¿½ï¿½Ö»ï¿½ï¿½ï¿½ï¿½ï¿½
          */
         public static final String taobaoAppcenter = "com.taobao.appcenter";
         /**
-         * °²×¿ÊĞ³¡
+         * ï¿½ï¿½×¿ï¿½Ğ³ï¿½
          */
         public static final String anzhuo = "com.hiapk.marketpho";
 
         /**
-         * °²ÖÇÊĞ³¡
+         * ï¿½ï¿½ï¿½ï¿½ï¿½Ğ³ï¿½
          */
         public static final String anzhi = "cn.goapk.market";
     }

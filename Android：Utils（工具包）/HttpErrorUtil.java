@@ -1,15 +1,6 @@
 package github.alex.util;
 
-import java.net.ConnectException;
-import java.net.HttpRetryException;
-import java.net.MalformedURLException;
-import java.net.NoRouteToHostException;
-import java.net.PortUnreachableException;
-import java.net.ProtocolException;
-import java.net.SocketException;
-import java.net.SocketTimeoutException;
-import java.net.UnknownHostException;
-import java.net.UnknownServiceException;
+import java.net.*;
 import java.util.concurrent.TimeoutException;
 
 public class HttpErrorUtil

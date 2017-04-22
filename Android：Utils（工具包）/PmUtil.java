@@ -3,7 +3,6 @@ package org.alex.util;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Parcelable;
-
 import org.alex.model.ParcelableMap;
 
 import java.util.List;

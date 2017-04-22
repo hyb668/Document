@@ -1,19 +1,10 @@
 
-import java.io.BufferedReader;
-import java.io.ByteArrayOutputStream;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.lang.ref.WeakReference;
-
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Bitmap;
+import android.graphics.Bitmap.CompressFormat;
 import android.graphics.BitmapFactory;
 import android.graphics.Matrix;
-import android.graphics.Bitmap.CompressFormat;
 import android.graphics.Typeface;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo.State;
@@ -25,26 +16,29 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import java.io.*;
+import java.lang.ref.WeakReference;
+
 public class ToolFor9Ge 
 {
-	// Ëõ·Å/²Ã¼ôÍ¼Æ¬
+	// ï¿½ï¿½ï¿½ï¿½/ï¿½Ã¼ï¿½Í¼Æ¬
  	public static Bitmap zoomImg(Bitmap bm, int newWidth ,int newHeight)
  	{ 
- 		// »ñµÃÍ¼Æ¬µÄ¿í¸ß
+ 		// ï¿½ï¿½ï¿½Í¼Æ¬ï¿½Ä¿ï¿½ï¿½
   	   int width = bm.getWidth();
   	   int height = bm.getHeight();
-  	   // ¼ÆËãËõ·Å±ÈÀý
+  	   // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å±ï¿½ï¿½ï¿½
   	   float scaleWidth = ((float) newWidth) / width;
   	   float scaleHeight = ((float) newHeight) / height;
-  	   // È¡µÃÏëÒªËõ·ÅµÄmatrix²ÎÊý
+  	   // È¡ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½Åµï¿½matrixï¿½ï¿½ï¿½ï¿½
   	   Matrix matrix = new Matrix();
   	   matrix.postScale(scaleWidth, scaleHeight);
-  	   // µÃµ½ÐÂµÄÍ¼Æ¬
+  	   // ï¿½Ãµï¿½ï¿½Âµï¿½Í¼Æ¬
   	   Bitmap newbm = Bitmap.createBitmap(bm, 0, 0, width, height, matrix, true);
   	   return newbm;
  	}
  	
- 	// ÅÐ¶ÏÓÐÎÞÍøÂçÁ´½Ó
+ 	// ï¿½Ð¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
  	public static boolean checkNetworkInfo(Context mContext) {
  	  	ConnectivityManager conMan = (ConnectivityManager) mContext.getSystemService(Context.CONNECTIVITY_SERVICE);
  	  	State mobile = conMan.getNetworkInfo(ConnectivityManager.TYPE_MOBILE).getState();
@@ -56,7 +50,7 @@ public class ToolFor9Ge
  	  	return false;
  	}
  	
- 	// ´ÓÂ·¾¶»ñÈ¡ÎÄ¼þÃû
+ 	// ï¿½ï¿½Â·ï¿½ï¿½ï¿½ï¿½È¡ï¿½Ä¼ï¿½ï¿½ï¿½
  	public static String getFileName(String pathandname){ 
  		int start=pathandname.lastIndexOf("/");  
          int end=pathandname.lastIndexOf(".");  
@@ -67,7 +61,7 @@ public class ToolFor9Ge
          }             
  	}
  	
- 	// Í¨¹ýÂ·¾¶Éú³ÉBase64ÎÄ¼þ
+ 	// Í¨ï¿½ï¿½Â·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Base64ï¿½Ä¼ï¿½
  	public static String getBase64FromPath(String path)
  	{
  		String base64="";
@@ -85,19 +79,19 @@ public class ToolFor9Ge
  		return base64;
  	}
  	
- 	//Í¨¹ýÎÄ¼þÂ·¾¶»ñÈ¡µ½bitmap
+ 	//Í¨ï¿½ï¿½ï¿½Ä¼ï¿½Â·ï¿½ï¿½ï¿½ï¿½È¡ï¿½ï¿½bitmap
  	public static Bitmap getBitmapFromPath(String path, int w, int h) {
 		BitmapFactory.Options opts = new BitmapFactory.Options();
-		// ÉèÖÃÎªtureÖ»»ñÈ¡Í¼Æ¬´óÐ¡
+		// ï¿½ï¿½ï¿½ï¿½ÎªtureÖ»ï¿½ï¿½È¡Í¼Æ¬ï¿½ï¿½Ð¡
 		opts.inJustDecodeBounds = true;
 		opts.inPreferredConfig = Bitmap.Config.ARGB_8888;
-		// ·µ»ØÎª¿Õ
+		// ï¿½ï¿½ï¿½ï¿½Îªï¿½ï¿½
 		BitmapFactory.decodeFile(path, opts);
 		int width = opts.outWidth;
 		int height = opts.outHeight;
 		float scaleWidth = 0.f, scaleHeight = 0.f;
 		if (width > w || height > h) {
-			// Ëõ·Å
+			// ï¿½ï¿½ï¿½ï¿½
 			scaleWidth = ((float) width) / w;
 			scaleHeight = ((float) height) / h;
 		}
@@ -108,7 +102,7 @@ public class ToolFor9Ge
 		return Bitmap.createScaledBitmap(weak.get(), w, h, true);
 	}
  	
- 	//°Ñbitmap×ª»»³Ébase64
+ 	//ï¿½ï¿½bitmap×ªï¿½ï¿½ï¿½ï¿½base64
  	public static String getBase64FromBitmap(Bitmap bitmap, int bitmapQuality)
  	{
  		ByteArrayOutputStream bStream = new ByteArrayOutputStream();
@@ -117,7 +111,7 @@ public class ToolFor9Ge
  		return Base64.encodeToString(bytes, Base64.DEFAULT);
  	}
  	
- 	//°Ñbase64×ª»»³Ébitmap
+ 	//ï¿½ï¿½base64×ªï¿½ï¿½ï¿½ï¿½bitmap
  	public static Bitmap getBitmapFromBase64(String string)
  	{
  		byte[] bitmapArray = null;
@@ -129,7 +123,7 @@ public class ToolFor9Ge
  		return BitmapFactory.decodeByteArray(bitmapArray, 0,bitmapArray.length);
  	}
  	
- 	//°ÑStream×ª»»³ÉString
+ 	//ï¿½ï¿½Stream×ªï¿½ï¿½ï¿½ï¿½String
  	public static String convertStreamToString(InputStream is) {
  		BufferedReader reader = new BufferedReader(new InputStreamReader(is));
 			StringBuilder sb = new StringBuilder();
@@ -151,9 +145,9 @@ public class ToolFor9Ge
 			return sb.toString();	
  	}	
  	
- 	// ÐÞ¸ÄÕû¸ö½çÃæËùÓÐ¿Ø¼þµÄ×ÖÌå
+ 	// ï¿½Þ¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¿Ø¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
  	public static void changeFonts(ViewGroup root,String path, Activity act) {  
-        //pathÊÇ×ÖÌåÂ·¾¶
+        //pathï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â·ï¿½ï¿½
  		Typeface tf = Typeface.createFromAsset(act.getAssets(),path);  
         for (int i = 0; i < root.getChildCount(); i++) {  
             View v = root.getChildAt(i); 
@@ -169,7 +163,7 @@ public class ToolFor9Ge
         }  
      }
  	
- 	// ÐÞ¸ÄÕû¸ö½çÃæËùÓÐ¿Ø¼þµÄ×ÖÌå´óÐ¡
+ 	// ï¿½Þ¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¿Ø¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¡
   	public static void changeTextSize(ViewGroup root,int size, Activity act) {  
          for (int i = 0; i < root.getChildCount(); i++) {  
              View v = root.getChildAt(i);  
@@ -185,7 +179,7 @@ public class ToolFor9Ge
          }  
       }
   	
-  	// ²»¸Ä±ä¿Ø¼þÎ»ÖÃ£¬ÐÞ¸Ä¿Ø¼þ´óÐ¡
+  	// ï¿½ï¿½ï¿½Ä±ï¿½Ø¼ï¿½Î»ï¿½Ã£ï¿½ï¿½Þ¸Ä¿Ø¼ï¿½ï¿½ï¿½Ð¡
 	public static void changeWH(View v,int W,int H)
 	{
 		LayoutParams params = (LayoutParams)v.getLayoutParams();
@@ -194,7 +188,7 @@ public class ToolFor9Ge
 	    v.setLayoutParams(params);
 	}
 	
-	// ÐÞ¸Ä¿Ø¼þµÄ¸ß
+	// ï¿½Þ¸Ä¿Ø¼ï¿½ï¿½Ä¸ï¿½
 	public static void changeH(View v,int H)
 	{
 		LayoutParams params = (LayoutParams)v.getLayoutParams();

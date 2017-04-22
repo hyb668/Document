@@ -1,9 +1,9 @@
 package com.subzero.common.utils;
+import com.socks.library.KLog;
+
 import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.List;
-
-import com.socks.library.KLog;
 public class ClassUtil 
 {
 	/**获取 JavaBean的成员变量的 个数  成员修饰符 必须是 public

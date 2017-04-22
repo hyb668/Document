@@ -1,0 +1,1 @@
+只能 放在 drawable  文件夹下面  @drawable/xxx

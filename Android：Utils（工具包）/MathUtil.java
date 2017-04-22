@@ -15,6 +15,7 @@
  */
 package github.common.utils;
 import android.annotation.SuppressLint;
+
 import java.math.BigDecimal;
 @SuppressLint("DefaultLocale")
 public class MathUtil

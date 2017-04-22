@@ -1,11 +1,12 @@
 package com.alex.teaencyclopedia.util;
+import org.apache.commons.lang.StringUtils;
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
-import org.apache.commons.lang.StringUtils;
 /**身份证工具类
 <br/>需要 commons-lang-2.4.jar */
 public class IDCardUtils extends StringUtils 

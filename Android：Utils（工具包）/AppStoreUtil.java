@@ -6,25 +6,25 @@ import android.text.TextUtils;
 import org.alex.util.BaseUtil;
 
 /**
- * ���ߣ�Alex
- * ʱ�䣺2016/11/8 17:55
- * ������
+ * 作者：Alex
+ * 时间：2016/11/8 17:55
+ * 简述：
  */
 public class AppStoreUtil {
     /**
-     * ������Ӧ���̵�app�������
+     * 启动到应用商店app详情界面
      *
-     * @param marketPkg Ӧ���̵���� ,���Ϊ""����ϵͳ����Ӧ���̵��б��û�ѡ��,�����ת��Ŀ���г���Ӧ��������棬ĳЩӦ���̵���ܻ�ʧ��
+     * @param marketPkg 应用商店包名 ,如果为""则由系统弹出应用商店列表供用户选择,否则调转到目标市场的应用详情界面，某些应用商店可能会失败
      */
     public static void launchAppStoreDetail(String marketPkg) {
         launchAppStoreDetail(BaseUtil.app().getPackageName(), marketPkg);
     }
 
     /**
-     * ������Ӧ���̵�app�������
+     * 启动到应用商店app详情界面
      *
-     * @param appPkg    Ŀ��App�İ���
-     * @param marketPkg Ӧ���̵���� ,���Ϊ""����ϵͳ����Ӧ���̵��б��û�ѡ��,�����ת��Ŀ���г���Ӧ��������棬ĳЩӦ���̵���ܻ�ʧ��
+     * @param appPkg    目标App的包名
+     * @param marketPkg 应用商店包名 ,如果为""则由系统弹出应用商店列表供用户选择,否则调转到目标市场的应用详情界面，某些应用商店可能会失败
      */
     public static void launchAppStoreDetail(String appPkg, String marketPkg) {
         try {
@@ -45,44 +45,44 @@ public class AppStoreUtil {
 
     public static final class MarketPkg {
         /**
-         * �ȸ��г�
+         * 谷歌市场
          */
         public static final String googlePlay = "com.android.vending";
         /**
-         * ��ѶӦ�ñ�
+         * 腾讯应用宝
          */
         public static final String tengxun = "com.tencent.android.qqdownloader";
         /**
-         * 360 �ֻ�����
+         * 360 手机助手
          */
         public static final String _360 = "com.qihoo.appstore";
         /**
-         * �ٶ�Ӧ���г�
+         * 百度应用市场
          */
         public static final String baidu = "com.baidu.appsearch";
         /**
-         * С��
+         * 小米
          */
         public static final String xiaomi = "com.xiaomi.market";
         /**
-         * �㶹��
+         * 豌豆荚
          */
         public static final String wandoujia = "com.wandoujia.phoenix2";
         /**
-         * ��Ϊ
+         * 华为
          */
         public static final String huawei = "com.huawei.appmarket";
         /**
-         * �Ա��ֻ�����
+         * 淘宝手机助手
          */
         public static final String taobaoAppcenter = "com.taobao.appcenter";
         /**
-         * ��׿�г�
+         * 安卓市场
          */
         public static final String anzhuo = "com.hiapk.marketpho";
 
         /**
-         * �����г�
+         * 安智市场
          */
         public static final String anzhi = "cn.goapk.market";
     }

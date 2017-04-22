@@ -3,8 +3,6 @@ package org.xutils.common.util;
 import android.database.Cursor;
 import android.text.TextUtils;
 
-import java.io.*;
-
 public class IOUtil {
 
     private IOUtil() {

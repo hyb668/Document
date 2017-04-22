@@ -1,6 +1,5 @@
 package github.alex.util;
 
-import java.net.*;
 import java.util.concurrent.TimeoutException;
 
 public class HttpErrorUtil

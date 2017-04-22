@@ -2,7 +2,6 @@ package org.alex.util;
 
 import android.util.Log;
 
-import java.io.*;
 import java.security.DigestInputStream;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

@@ -5,7 +5,6 @@ import android.os.Build;
 import android.os.Environment;
 import android.os.StatFs;
 
-import java.io.*;
 import java.util.Locale;
 
 @SuppressWarnings("all")

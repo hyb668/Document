@@ -1,267 +1,267 @@
-ÔÚ xml ÎÄ¼şÖĞ   Ctrl + ¿Õ¸ñ  ´úÂëÌáÊ¾£¬ÏÔÊ¾³ö¿Ø¼şÊôĞÔ
-ÔÚ xml ÎÄ¼şÖĞ  Alt + Enter ĞèÒªÌí¼Ó Ñ¹ÖÆÓ²±àÂëµÄ¾¯¸æĞÅÏ¢
-ÔÚ xml ÎÄ¼şÖĞ×¢ÊÍ  Shift+Ctrl+/
-¾Ö²¿±äÁ¿ ±ä³É È«¾Ö±äÁ¿				Ctrl + Alt + F
-ÀàÃû»ò½Ó¿ÚÃûÌáÊ¾			Ctrl+Alt+Space 
-·½·¨²ÎÊıÌáÊ¾					Ctrl+P 
-×Ô¶¯²¹È«´úÂë					Ctrl+Shift+Space 
-´úÂë¿é³é³éÈ¡					Ctrl + Alt + Shift + T		È»ºó°´Êı×Ö 8  ÀàËÆÓÚ Eclipse£ºCtrl+Alt+M
-´úÂë¸ñÊ½»¯		Ctrl + Alt + L 
-ÎÄµµÌáÊ¾				Ctrl + Q 
-ËÑË÷						Ctrl + Shift + F 
-ÖØÃüÃû					Shift + F6  
-×Ô¶¯ĞŞÕı				Alt + »Ø³µ(¹â±ê²»ÄÜÔÚĞĞÎ²)  
-×Ô¶¯µ¼°ü				Ctrl + Alt + O  
-É¾³ıµ±Ç°ĞĞ    	Ctrl + Y  
-ÏòÉÏÏÂÒÆ¶¯    	Ctrl+Shift+ÉÏ|ÏÂ   
-ÔÚ±¾javaÎÄ¼şÖĞ  ÕÒµ½³öÏÖÊ¹ÓÃ¸Ã±äÁ¿µÄµØ·½  Ctrl + B
-´ò¿ªÀà					Ctrl + N
+åœ¨ xml æ–‡ä»¶ä¸­   Ctrl + ç©ºæ ¼  ä»£ç æç¤ºï¼Œæ˜¾ç¤ºå‡ºæ§ä»¶å±æ€§
+        åœ¨ xml æ–‡ä»¶ä¸­  Alt + Enter éœ€è¦æ·»åŠ  å‹åˆ¶ç¡¬ç¼–ç çš„è­¦å‘Šä¿¡æ¯
+        åœ¨ xml æ–‡ä»¶ä¸­æ³¨é‡Š  Shift+Ctrl+/
+        å±€éƒ¨å˜é‡ å˜æˆ å…¨å±€å˜é‡				Ctrl + Alt + F
+        ç±»åæˆ–æ¥å£åæç¤º			Ctrl+Alt+Space
+        æ–¹æ³•å‚æ•°æç¤º					Ctrl+P
+        è‡ªåŠ¨è¡¥å…¨ä»£ç 					Ctrl+Shift+Space
+        ä»£ç å—æŠ½æŠ½å–					Ctrl + Alt + Shift + T		ç„¶åæŒ‰æ•°å­— 8  ç±»ä¼¼äº Eclipseï¼šCtrl+Alt+M
+        ä»£ç æ ¼å¼åŒ–		Ctrl + Alt + L
+        æ–‡æ¡£æç¤º				Ctrl + Q
+        æœç´¢						Ctrl + Shift + F
+        é‡å‘½å					Shift + F6
+        è‡ªåŠ¨ä¿®æ­£				Alt + å›è½¦(å…‰æ ‡ä¸èƒ½åœ¨è¡Œå°¾)
+        è‡ªåŠ¨å¯¼åŒ…				Ctrl + Alt + O
+        åˆ é™¤å½“å‰è¡Œ    	Ctrl + Y
+        å‘ä¸Šä¸‹ç§»åŠ¨    	Ctrl+Shift+ä¸Š|ä¸‹
+        åœ¨æœ¬javaæ–‡ä»¶ä¸­  æ‰¾åˆ°å‡ºç°ä½¿ç”¨è¯¥å˜é‡çš„åœ°æ–¹  Ctrl + B
+        æ‰“å¼€ç±»					Ctrl + N
 
-²é¿´×î½üä¯ÀÀÎÄ¼ş     Ctrl + E
-F12	°Ñ½¹µã´Ó±à¼­Æ÷ÒÆµ½×î½üÊ¹ÓÃµÄ¹¤¾ß´°¿Ú
-Alt(Option)+Insert	µÃµ½Ò»Ğ©Intention Action£¬¿ÉÒÔÉú³É¹¹ÔìÆ÷¡¢Getter¡¢Setter¡¢½« == ¸ÄÎª equals() µÈ
-F3  ²éÕÒ
-http://seniorzhai.github.io/2015/02/05/AndroidStudio%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%B1%87%E6%80%BB/
+        æŸ¥çœ‹æœ€è¿‘æµè§ˆæ–‡ä»¶     Ctrl + E
+        F12	æŠŠç„¦ç‚¹ä»ç¼–è¾‘å™¨ç§»åˆ°æœ€è¿‘ä½¿ç”¨çš„å·¥å…·çª—å£
+        Alt(Option)+Insert	å¾—åˆ°ä¸€äº›Intention Actionï¼Œå¯ä»¥ç”Ÿæˆæ„é€ å™¨ã€Getterã€Setterã€å°† == æ”¹ä¸º equals() ç­‰
+        F3  æŸ¥æ‰¾
+        http://seniorzhai.github.io/2015/02/05/AndroidStudio%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%B1%87%E6%80%BB/
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-°´¼ü	ËµÃ÷
-F1	°ïÖú
-Alt(Option)+F1	²éÕÒÎÄ¼şËùÔÚÄ¿Â¼Î»ÖÃ
-Alt(Option)+1	¿ìËÙ´ò¿ª»òÒş²Ø¹¤³ÌÃæ°å
-Ctrl(Command)+Alt(Option)+	´ò¿ªÉèÖÃ¶Ô»°¿ò
-Alt(Option)+Home	Ìø×ªµ½µ¼º½À¸
-Esc	¹â±ê·µ»Ø±à¼­¿ò
-Shift+Esc	¹â±ê·µ»Ø±à¼­¿ò,¹Ø±ÕÎŞÓÃµÄ´°¿Ú
-Shift+Click	¹Ø±Õ±êÇ©Ò³
-F12	°Ñ½¹µã´Ó±à¼­Æ÷ÒÆµ½×î½üÊ¹ÓÃµÄ¹¤¾ß´°¿Ú
-Ctrl(Command)+Alt(Option)+Y	Í¬²½
-Ctrl(Command)+Alt(Option)+S	´ò¿ªÉèÖÃ¶Ô»°¿ò
-Alt(Option)+Shift+Inert	¿ªÆô/¹Ø±ÕÁĞÑ¡ÔñÄ£Ê½
-Ctrl(Command)+Alt(Option)+Shift+S	´ò¿ªµ±Ç°ÏîÄ¿/Ä£¿éÊôĞÔ
-Alt(Option)+Shift+C	²é¿´ÎÄ¼şµÄ±ä¸üÀúÊ·
-Ctrl(Command)+Shift+F10	ÔËĞĞ
-Ctrl(Command)+Shift+F9	debugÔËĞĞ
-Ctrl(Command)+Alt(Option)+F12	×ÊÔ´¹ÜÀíÆ÷´ò¿ªÎÄ¼ş¼Ğ
-±à¼­
+        æŒ‰é”®	è¯´æ˜
+        F1	å¸®åŠ©
+        Alt(Option)+F1	æŸ¥æ‰¾æ–‡ä»¶æ‰€åœ¨ç›®å½•ä½ç½®
+        Alt(Option)+1	å¿«é€Ÿæ‰“å¼€æˆ–éšè—å·¥ç¨‹é¢æ¿
+        Ctrl(Command)+Alt(Option)+	æ‰“å¼€è®¾ç½®å¯¹è¯æ¡†
+        Alt(Option)+Home	è·³è½¬åˆ°å¯¼èˆªæ 
+        Esc	å…‰æ ‡è¿”å›ç¼–è¾‘æ¡†
+        Shift+Esc	å…‰æ ‡è¿”å›ç¼–è¾‘æ¡†,å…³é—­æ— ç”¨çš„çª—å£
+        Shift+Click	å…³é—­æ ‡ç­¾é¡µ
+        F12	æŠŠç„¦ç‚¹ä»ç¼–è¾‘å™¨ç§»åˆ°æœ€è¿‘ä½¿ç”¨çš„å·¥å…·çª—å£
+        Ctrl(Command)+Alt(Option)+Y	åŒæ­¥
+        Ctrl(Command)+Alt(Option)+S	æ‰“å¼€è®¾ç½®å¯¹è¯æ¡†
+        Alt(Option)+Shift+Inert	å¼€å¯/å…³é—­åˆ—é€‰æ‹©æ¨¡å¼
+        Ctrl(Command)+Alt(Option)+Shift+S	æ‰“å¼€å½“å‰é¡¹ç›®/æ¨¡å—å±æ€§
+        Alt(Option)+Shift+C	æŸ¥çœ‹æ–‡ä»¶çš„å˜æ›´å†å²
+        Ctrl(Command)+Shift+F10	è¿è¡Œ
+        Ctrl(Command)+Shift+F9	debugè¿è¡Œ
+        Ctrl(Command)+Alt(Option)+F12	èµ„æºç®¡ç†å™¨æ‰“å¼€æ–‡ä»¶å¤¹
+        ç¼–è¾‘
 
-°´¼ü	ËµÃ÷
-Alt(Option)+Enter	×Ô¶¯ĞŞÕı
+        æŒ‰é”®	è¯´æ˜
+        Alt(Option)+Enter	è‡ªåŠ¨ä¿®æ­£
 
-Ctrl(Command)+Alt(Option)+O	ÓÅ»¯µ¼ÈëµÄÀàºÍ°ü
-Alt(Option)+Insert	µÃµ½Ò»Ğ©Intention Action£¬¿ÉÒÔÉú³É¹¹ÔìÆ÷¡¢Getter¡¢Setter¡¢½« == ¸ÄÎª equals() µÈ
-Ctrl(Command)+Shift+V	Ñ¡×î½üÊ¹ÓÃµÄ¼ôÌù°åÄÚÈİ²¢²åÈë
-Ctrl(Command)+Alt(Option)+Shift+V	¼òµ¥Õ³Ìù
-Ctrl(Command)+Shift+Insert	Ñ¡×î½üÊ¹ÓÃµÄ¼ôÌù°åÄÚÈİ²¢²åÈë£¨Í¬Ctrl(Command)+Shift+V£©
-Ctrl(Command)+Enter	ÔÚµ±Ç°ĞĞµÄÉÏÃæ²åÈëĞÂĞĞ£¬²¢ÒÆ¶¯¹â±êµ½ĞÂĞĞ£¨´Ë¹¦ÄÜ¹â±êÔÚĞĞÊ×Ê±ÓĞĞ§£©
-Shift+Enter	ÔÚµ±Ç°ĞĞµÄÏÂÃæ²åÈëĞÂĞĞ£¬²¢ÒÆ¶¯¹â±êµ½ĞÂĞĞ
-Ctrl(Command)+J	×Ô¶¯´úÂë
-Ctrl(Command)+Alt(Option)+T	°ÑÑ¡ÖĞµÄ´úÂë·ÅÔÚ try{} ¡¢if{} ¡¢ else{} Àï
-Shift+Alt(Option)+Insert	Êú±à¼­Ä£Ê½
-Ctrl(Command)+ /	×¢ÊÍ //
-Ctrl(Command)+Shift+ /	×¢ÊÍ /¡­/
-Ctrl(Command)+Shift+J	ºÏ²¢³ÉÒ»ĞĞ
-F2/Shift+F2	Ìø×ªµ½ÏÂ/ÉÏÒ»¸ö´íÎóÓï¾ä´¦
-Ctrl(Command)+Shift+Back	Ìø×ªµ½ÉÏ´Î±à¼­µÄµØ·½
-Ctrl(Command)+Alt(Option)+Space	ÀàÃû×Ô¶¯Íê³É
-Shift+Alt(Option)+Up/Down	ÄÚÈİÏòÉÏ/ÏÂÒÆ¶¯
-Ctrl(Command)+Shift+Up/Down	Óï¾äÏòÉÏ/ÏÂÒÆ¶¯
-Ctrl(Command)+Shift+U	´óĞ¡Ğ´ÇĞ»»
-Tab	´úÂë±êÇ©ÊäÈëÍê³Éºó£¬°´ Tab£¬Éú³É´úÂë
-Ctrl(Command)+Backspace	°´µ¥´ÊÉ¾³ı
-Ctrl(Command)+Shift+Enter	Óï¾äÍê³É
-Ctrl(Command)+Alt(Option)+J	ÓÃ¶¯Ì¬Ä£°å»·ÈÆ
-ÎÄ¼ş
+        Ctrl(Command)+Alt(Option)+O	ä¼˜åŒ–å¯¼å…¥çš„ç±»å’ŒåŒ…
+        Alt(Option)+Insert	å¾—åˆ°ä¸€äº›Intention Actionï¼Œå¯ä»¥ç”Ÿæˆæ„é€ å™¨ã€Getterã€Setterã€å°† == æ”¹ä¸º equals() ç­‰
+        Ctrl(Command)+Shift+V	é€‰æœ€è¿‘ä½¿ç”¨çš„å‰ªè´´æ¿å†…å®¹å¹¶æ’å…¥
+        Ctrl(Command)+Alt(Option)+Shift+V	ç®€å•ç²˜è´´
+        Ctrl(Command)+Shift+Insert	é€‰æœ€è¿‘ä½¿ç”¨çš„å‰ªè´´æ¿å†…å®¹å¹¶æ’å…¥ï¼ˆåŒCtrl(Command)+Shift+Vï¼‰
+        Ctrl(Command)+Enter	åœ¨å½“å‰è¡Œçš„ä¸Šé¢æ’å…¥æ–°è¡Œï¼Œå¹¶ç§»åŠ¨å…‰æ ‡åˆ°æ–°è¡Œï¼ˆæ­¤åŠŸèƒ½å…‰æ ‡åœ¨è¡Œé¦–æ—¶æœ‰æ•ˆï¼‰
+        Shift+Enter	åœ¨å½“å‰è¡Œçš„ä¸‹é¢æ’å…¥æ–°è¡Œï¼Œå¹¶ç§»åŠ¨å…‰æ ‡åˆ°æ–°è¡Œ
+        Ctrl(Command)+J	è‡ªåŠ¨ä»£ç 
+        Ctrl(Command)+Alt(Option)+T	æŠŠé€‰ä¸­çš„ä»£ç æ”¾åœ¨ try{} ã€if{} ã€ else{} é‡Œ
+        Shift+Alt(Option)+Insert	ç«–ç¼–è¾‘æ¨¡å¼
+        Ctrl(Command)+ /	æ³¨é‡Š //
+        Ctrl(Command)+Shift+ /	æ³¨é‡Š /â€¦/
+        Ctrl(Command)+Shift+J	åˆå¹¶æˆä¸€è¡Œ
+        F2/Shift+F2	è·³è½¬åˆ°ä¸‹/ä¸Šä¸€ä¸ªé”™è¯¯è¯­å¥å¤„
+        Ctrl(Command)+Shift+Back	è·³è½¬åˆ°ä¸Šæ¬¡ç¼–è¾‘çš„åœ°æ–¹
+        Ctrl(Command)+Alt(Option)+Space	ç±»åè‡ªåŠ¨å®Œæˆ
+        Shift+Alt(Option)+Up/Down	å†…å®¹å‘ä¸Š/ä¸‹ç§»åŠ¨
+        Ctrl(Command)+Shift+Up/Down	è¯­å¥å‘ä¸Š/ä¸‹ç§»åŠ¨
+        Ctrl(Command)+Shift+U	å¤§å°å†™åˆ‡æ¢
+        Tab	ä»£ç æ ‡ç­¾è¾“å…¥å®Œæˆåï¼ŒæŒ‰ Tabï¼Œç”Ÿæˆä»£ç 
+        Ctrl(Command)+Backspace	æŒ‰å•è¯åˆ é™¤
+        Ctrl(Command)+Shift+Enter	è¯­å¥å®Œæˆ
+        Ctrl(Command)+Alt(Option)+J	ç”¨åŠ¨æ€æ¨¡æ¿ç¯ç»•
+        æ–‡ä»¶
 
-°´¼ü	ËµÃ÷
-Ctrl(Command)+F12	ÏÔÊ¾µ±Ç°ÎÄ¼şµÄ½á¹¹
-Ctrl(Command)+H	ÏÔÊ¾Àà¼Ì³Ğ½á¹¹Í¼
-Ctrl(Command)+Q	ÏÔÊ¾×¢ÊÍÎÄµµ
-Ctrl(Command)+P	·½·¨²ÎÊıÌáÊ¾
-Ctrl(Command)+U	´ò¿ªµ±Ç°ÀàµÄ¸¸Àà»òÕßÊµÏÖµÄ½Ó¿Ú
-Alt(Option)+Left/Right	ÇĞ»»´úÂëÊÓÍ¼
-Ctrl(Command)+Alt(Option)+Left/Right	·µ»ØÉÏ´Î±à¼­µÄÎ»ÖÃ
-Alt(Option)+Up/Down	ÔÚ·½·¨¼ä¿ìËÙÒÆ¶¯¶¨Î»
-Ctrl(Command)+B	¿ìËÙ´ò¿ª¹â±ê´¦µÄÀà»ò·½·¨
-Ctrl(Command)+W	Ñ¡ÖĞ´úÂë£¬Á¬Ğø°´»áÓĞÆäËûĞ§¹û
-Ctrl(Command)+Shift+W	È¡ÏûÑ¡Ôñ¹â±êËùÔÚ´Ê
-Ctrl(Command)+ - / +	ÕÛµş/Õ¹¿ª´úÂë
-Ctrl(Command)+Shift+ - / +	ÕÛµş/Õ¹¿ªÈ«²¿´úÂë
-Ctrl(Command)+Shift+.	ÕÛµş/Õ¹¿ªµ±Ç°»¨À¨ºÅÖĞµÄ´úÂë
-Ctrl(Command)+ ] / [	Ìø×ªµ½´úÂë¿é½áÊø/¿ªÊ¼´¦
-F2 »ò Shift+F2	¸ßÁÁ´íÎó»ò¾¯¸æ¿ìËÙ¶¨Î»
-Ctrl(Command)+Shift+C	¸´ÖÆÂ·¾¶
-Ctrl(Command)+Alt(Option)+Shift+C	¸´ÖÆÒıÓÃ£¬±ØĞëÑ¡ÔñÀàÃû
-Alt(Option)+Up/Down	ÔÚ·½·¨¼ä¿ìËÙÒÆ¶¯¶¨Î»
-Shift+F1	Òª´ò¿ª±à¼­Æ÷¹â±ê×Ö·û´¦Ê¹ÓÃµÄÀà»òÕß·½·¨ Java ÎÄµµµÄä¯ÀÀÆ÷
-Ctrl(Command)+G	¶¨Î»ĞĞ
-²éÕÒ
+        æŒ‰é”®	è¯´æ˜
+        Ctrl(Command)+F12	æ˜¾ç¤ºå½“å‰æ–‡ä»¶çš„ç»“æ„
+        Ctrl(Command)+H	æ˜¾ç¤ºç±»ç»§æ‰¿ç»“æ„å›¾
+        Ctrl(Command)+Q	æ˜¾ç¤ºæ³¨é‡Šæ–‡æ¡£
+        Ctrl(Command)+P	æ–¹æ³•å‚æ•°æç¤º
+        Ctrl(Command)+U	æ‰“å¼€å½“å‰ç±»çš„çˆ¶ç±»æˆ–è€…å®ç°çš„æ¥å£
+        Alt(Option)+Left/Right	åˆ‡æ¢ä»£ç è§†å›¾
+        Ctrl(Command)+Alt(Option)+Left/Right	è¿”å›ä¸Šæ¬¡ç¼–è¾‘çš„ä½ç½®
+        Alt(Option)+Up/Down	åœ¨æ–¹æ³•é—´å¿«é€Ÿç§»åŠ¨å®šä½
+        Ctrl(Command)+B	å¿«é€Ÿæ‰“å¼€å…‰æ ‡å¤„çš„ç±»æˆ–æ–¹æ³•
+        Ctrl(Command)+W	é€‰ä¸­ä»£ç ï¼Œè¿ç»­æŒ‰ä¼šæœ‰å…¶ä»–æ•ˆæœ
+        Ctrl(Command)+Shift+W	å–æ¶ˆé€‰æ‹©å…‰æ ‡æ‰€åœ¨è¯
+        Ctrl(Command)+ - / +	æŠ˜å /å±•å¼€ä»£ç 
+        Ctrl(Command)+Shift+ - / +	æŠ˜å /å±•å¼€å…¨éƒ¨ä»£ç 
+        Ctrl(Command)+Shift+.	æŠ˜å /å±•å¼€å½“å‰èŠ±æ‹¬å·ä¸­çš„ä»£ç 
+        Ctrl(Command)+ ] / [	è·³è½¬åˆ°ä»£ç å—ç»“æŸ/å¼€å§‹å¤„
+        F2 æˆ– Shift+F2	é«˜äº®é”™è¯¯æˆ–è­¦å‘Šå¿«é€Ÿå®šä½
+        Ctrl(Command)+Shift+C	å¤åˆ¶è·¯å¾„
+        Ctrl(Command)+Alt(Option)+Shift+C	å¤åˆ¶å¼•ç”¨ï¼Œå¿…é¡»é€‰æ‹©ç±»å
+        Alt(Option)+Up/Down	åœ¨æ–¹æ³•é—´å¿«é€Ÿç§»åŠ¨å®šä½
+        Shift+F1	è¦æ‰“å¼€ç¼–è¾‘å™¨å…‰æ ‡å­—ç¬¦å¤„ä½¿ç”¨çš„ç±»æˆ–è€…æ–¹æ³• Java æ–‡æ¡£çš„æµè§ˆå™¨
+        Ctrl(Command)+G	å®šä½è¡Œ
+        æŸ¥æ‰¾
 
-°´¼ü	ËµÃ÷
-Ctrl(Command)+F	ÔÚµ±Ç°´°¿Ú²éÕÒÎÄ±¾
-Ctrl(Command)+Shift+F	ÔÚÖ¸¶¨»·¾³ÏÂ²éÕÒÎÄ±¾
-F3	ÏòÏÂ²éÕÒ¹Ø¼ü×Ö³öÏÖÎ»ÖÃ
-Shift+F3	ÏòÉÏÒ»¸ö¹Ø¼ü×Ö³öÏÖÎ»ÖÃ
-Ctrl(Command)+R	ÔÚµ±Ç°´°¿ÚÌæ»»ÎÄ±¾
-Ctrl(Command)+Shift+R	ÔÚÖ¸¶¨´°¿ÚÌæ»»ÎÄ±¾
-Ctrl(Command)+N	²éÕÒÀà
-Ctrl(Command)+Shift+N	²éÕÒÎÄ¼ş
-Ctrl(Command)+Shift+Alt(Option)+N	²éÕÒÏîÄ¿ÖĞµÄ·½·¨»ò±äÁ¿
-Ctrl(Command)+B	²éÕÒ±äÁ¿µÄÀ´Ô´
-Ctrl(Command)+Alt(Option)+B	¿ìËÙ´ò¿ª¹â±ê´¦µÄÀà»ò·½·¨
-Ctrl(Command)+Shift+B	Ìø×ªµ½Àà»ò·½·¨ÊµÏÖ´¦
-Ctrl(Command)+E	×î½ü´ò¿ªµÄÎÄ¼ş
-Alt(Option)+F3	¿ìËÙ²éÕÒ£¬Ğ§¹ûºÍCtrl(Command)+FÏàÍ¬
-F4	Ìø×ªÖÁ¶¨Òå±äÁ¿µÄÎ»ÖÃ
-Alt(Option)+F7	²éÑ¯µ±Ç°ÔªËØÔÚ¹¤³ÌÖĞµÄÒıÓÃ
-Ctrl(Command)+F7	²éÑ¯µ±Ç°ÔªËØÔÚµ±Ç°ÎÄ¼şÖĞµÄÒıÓÃ£¬È»ºó°´ F3 ¿ÉÒÔÑ¡Ôñ
-Ctrl(Command)+Alt(Option)+F7	Ñ¡ÖĞ²éÑ¯µ±Ç°ÔªËØÔÚ¹¤³ÌÖĞµÄÒıÓÃ
-Ctrl(Command)+Shift+F7	¸ßÁÁÏÔÊ¾Æ¥ÅäµÄ×Ö·û£¬°´ Esc ¸ßÁÁÏûÊ§
-Ctrl(Command)+Alt(Option)+F7	²éÕÒÄ³¸ö·½·¨µÄËùÓĞµ÷ÓÃµØ·½
-Ctrl(Command)+Shift+Alt(Option)+N	²éÕÒÀàÖĞµÄ·½·¨»ò±äÁ¿
-Ctrl(Command)+Shift+O	µ¯³öÏÔÊ¾²éÕÒÄÚÈİ
-Ctrl(Command)+Alt(Option)+Up/Down	¿ìËÙÌø×ªËÑË÷½á¹û
-Ctrl(Command)+Shift+S	¸ß¼¶ËÑË÷¡¢ËÑË÷½á¹¹
-ÖØ¹¹
+        æŒ‰é”®	è¯´æ˜
+        Ctrl(Command)+F	åœ¨å½“å‰çª—å£æŸ¥æ‰¾æ–‡æœ¬
+        Ctrl(Command)+Shift+F	åœ¨æŒ‡å®šç¯å¢ƒä¸‹æŸ¥æ‰¾æ–‡æœ¬
+        F3	å‘ä¸‹æŸ¥æ‰¾å…³é”®å­—å‡ºç°ä½ç½®
+        Shift+F3	å‘ä¸Šä¸€ä¸ªå…³é”®å­—å‡ºç°ä½ç½®
+        Ctrl(Command)+R	åœ¨å½“å‰çª—å£æ›¿æ¢æ–‡æœ¬
+        Ctrl(Command)+Shift+R	åœ¨æŒ‡å®šçª—å£æ›¿æ¢æ–‡æœ¬
+        Ctrl(Command)+N	æŸ¥æ‰¾ç±»
+        Ctrl(Command)+Shift+N	æŸ¥æ‰¾æ–‡ä»¶
+        Ctrl(Command)+Shift+Alt(Option)+N	æŸ¥æ‰¾é¡¹ç›®ä¸­çš„æ–¹æ³•æˆ–å˜é‡
+        Ctrl(Command)+B	æŸ¥æ‰¾å˜é‡çš„æ¥æº
+        Ctrl(Command)+Alt(Option)+B	å¿«é€Ÿæ‰“å¼€å…‰æ ‡å¤„çš„ç±»æˆ–æ–¹æ³•
+        Ctrl(Command)+Shift+B	è·³è½¬åˆ°ç±»æˆ–æ–¹æ³•å®ç°å¤„
+        Ctrl(Command)+E	æœ€è¿‘æ‰“å¼€çš„æ–‡ä»¶
+        Alt(Option)+F3	å¿«é€ŸæŸ¥æ‰¾ï¼Œæ•ˆæœå’ŒCtrl(Command)+Fç›¸åŒ
+        F4	è·³è½¬è‡³å®šä¹‰å˜é‡çš„ä½ç½®
+        Alt(Option)+F7	æŸ¥è¯¢å½“å‰å…ƒç´ åœ¨å·¥ç¨‹ä¸­çš„å¼•ç”¨
+        Ctrl(Command)+F7	æŸ¥è¯¢å½“å‰å…ƒç´ åœ¨å½“å‰æ–‡ä»¶ä¸­çš„å¼•ç”¨ï¼Œç„¶åæŒ‰ F3 å¯ä»¥é€‰æ‹©
+        Ctrl(Command)+Alt(Option)+F7	é€‰ä¸­æŸ¥è¯¢å½“å‰å…ƒç´ åœ¨å·¥ç¨‹ä¸­çš„å¼•ç”¨
+        Ctrl(Command)+Shift+F7	é«˜äº®æ˜¾ç¤ºåŒ¹é…çš„å­—ç¬¦ï¼ŒæŒ‰ Esc é«˜äº®æ¶ˆå¤±
+        Ctrl(Command)+Alt(Option)+F7	æŸ¥æ‰¾æŸä¸ªæ–¹æ³•çš„æ‰€æœ‰è°ƒç”¨åœ°æ–¹
+        Ctrl(Command)+Shift+Alt(Option)+N	æŸ¥æ‰¾ç±»ä¸­çš„æ–¹æ³•æˆ–å˜é‡
+        Ctrl(Command)+Shift+O	å¼¹å‡ºæ˜¾ç¤ºæŸ¥æ‰¾å†…å®¹
+        Ctrl(Command)+Alt(Option)+Up/Down	å¿«é€Ÿè·³è½¬æœç´¢ç»“æœ
+        Ctrl(Command)+Shift+S	é«˜çº§æœç´¢ã€æœç´¢ç»“æ„
+        é‡æ„
 
-°´¼ü	ËµÃ÷
-F5	¸´ÖÆ
-F6	ÒÆ¶¯
-Alt(Option)+Delete	°²È«É¾³ı
-Ctrl(Command)+U	×ªµ½¸¸Àà
-Ctrl(Command)+O	ÖØĞ´¸¸ÀàµÄ·½·¨
-Ctrl(Command)+I	ÊµÏÖ·½·¨
-Ctrl(Command)+Alt(Option)+N	ÄÚÁª
-Ctrl(Command)+Alt(Option)+Shift+T	µ¯³öÖØ¹¹²Ëµ¥
-Shift+F6	ÖØ¹¹-ÖØÃüÃû
-Ctrl(Command)+Alt(Option)+M	ÌáÈ¡´úÂë×é³É·½·¨
-Ctrl(Command)+Alt(Option)+C	½«±äÁ¿¸ü¸ÄÎª³£Á¿
-Ctrl(Command)+Alt(Option)+V	¶¨Òå±äÁ¿ÒıÓÃµ±Ç°¶ÔÏó»òÕß·½·¨µÄ·µ»ØÖµ
-Ctrl(Command)+Alt(Option)+F	½«¾Ö²¿±äÁ¿¸ü¸ÄÎªÀàµÄ³ÉÔ±±äÁ¿
-Ctrl(Command)+Alt(Option)+P	½«±äÁ¿¸ü¸ÄÎª·½·¨µÄ²ÎÊı
-µ÷ÊÔ
+        æŒ‰é”®	è¯´æ˜
+        F5	å¤åˆ¶
+        F6	ç§»åŠ¨
+        Alt(Option)+Delete	å®‰å…¨åˆ é™¤
+        Ctrl(Command)+U	è½¬åˆ°çˆ¶ç±»
+        Ctrl(Command)+O	é‡å†™çˆ¶ç±»çš„æ–¹æ³•
+        Ctrl(Command)+I	å®ç°æ–¹æ³•
+        Ctrl(Command)+Alt(Option)+N	å†…è”
+        Ctrl(Command)+Alt(Option)+Shift+T	å¼¹å‡ºé‡æ„èœå•
+        Shift+F6	é‡æ„-é‡å‘½å
+        Ctrl(Command)+Alt(Option)+M	æå–ä»£ç ç»„æˆæ–¹æ³•
+        Ctrl(Command)+Alt(Option)+C	å°†å˜é‡æ›´æ”¹ä¸ºå¸¸é‡
+        Ctrl(Command)+Alt(Option)+V	å®šä¹‰å˜é‡å¼•ç”¨å½“å‰å¯¹è±¡æˆ–è€…æ–¹æ³•çš„è¿”å›å€¼
+        Ctrl(Command)+Alt(Option)+F	å°†å±€éƒ¨å˜é‡æ›´æ”¹ä¸ºç±»çš„æˆå‘˜å˜é‡
+        Ctrl(Command)+Alt(Option)+P	å°†å˜é‡æ›´æ”¹ä¸ºæ–¹æ³•çš„å‚æ•°
+        è°ƒè¯•
 
-°´¼ü	ËµÃ÷
-F8	Ìøµ½ÏÂÒ»²½
-Shift+F8	Ìø³öº¯Êı¡¢Ìøµ½ÏÂÒ»¸ö¶Ïµã
-Alt(Option)+Shift+F8	Ç¿ÖÆÌø³öº¯Êı
-F7	½øÈë´úÂë
-Shift+F7	ÖÇÄÜ½øÈë´úÂë
-Alt(Option)+Shift+F7	Ç¿ÖÆ½øÈë´úÂë
-Alt(Option)+F9	ÔËĞĞÖÁ¹â±ê´¦
-Ctrl(Command)+Alt(Option)+F9	Ç¿ÖÆÔËĞĞÖÁ¹â±ê´¦
-Ctrl(Command)+F2	Í£Ö¹ÔËĞĞ
-Alt(Option)+F8	¼ÆËã±äÁ¿Öµ
-VCS
+        æŒ‰é”®	è¯´æ˜
+        F8	è·³åˆ°ä¸‹ä¸€æ­¥
+        Shift+F8	è·³å‡ºå‡½æ•°ã€è·³åˆ°ä¸‹ä¸€ä¸ªæ–­ç‚¹
+        Alt(Option)+Shift+F8	å¼ºåˆ¶è·³å‡ºå‡½æ•°
+        F7	è¿›å…¥ä»£ç 
+        Shift+F7	æ™ºèƒ½è¿›å…¥ä»£ç 
+        Alt(Option)+Shift+F7	å¼ºåˆ¶è¿›å…¥ä»£ç 
+        Alt(Option)+F9	è¿è¡Œè‡³å…‰æ ‡å¤„
+        Ctrl(Command)+Alt(Option)+F9	å¼ºåˆ¶è¿è¡Œè‡³å…‰æ ‡å¤„
+        Ctrl(Command)+F2	åœæ­¢è¿è¡Œ
+        Alt(Option)+F8	è®¡ç®—å˜é‡å€¼
+        VCS
 
-|°´¼ü|ËµÃ÷|
-|Alt(Option)+ ~|
-|VCS ²Ù×÷²Ëµ¥|
-|Ctrl(Command)+K|Ìá½»¸ü¸Ä|
-|Ctrl(Command)+T|¸üĞÂÏîÄ¿|
-|Ctrl(Command)+Alt(Option)+Shift+D|ÏÔÊ¾±ä»¯|
+        |æŒ‰é”®|è¯´æ˜|
+        |Alt(Option)+ ~|
+        |VCS æ“ä½œèœå•|
+        |Ctrl(Command)+K|æäº¤æ›´æ”¹|
+        |Ctrl(Command)+T|æ›´æ–°é¡¹ç›®|
+        |Ctrl(Command)+Alt(Option)+Shift+D|æ˜¾ç¤ºå˜åŒ–|
 
-×î½ü¿ªÊ¼È«Ãæ×ªÏòAndroid Studio¿ª·¢ÁË£¬¾­³£ÒªÈ¥²é¿ì½İ¼ü£¬Ë÷ĞÔ»ã×ÜÏÂ£¬×Ô¼º·½±ã²éÕÒ
-Alt+»Ø³µ µ¼Èë°ü,×Ô¶¯ĞŞÕı
+        æœ€è¿‘å¼€å§‹å…¨é¢è½¬å‘Android Studioå¼€å‘äº†ï¼Œç»å¸¸è¦å»æŸ¥å¿«æ·é”®ï¼Œç´¢æ€§æ±‡æ€»ä¸‹ï¼Œè‡ªå·±æ–¹ä¾¿æŸ¥æ‰¾
+        Alt+å›è½¦ å¯¼å…¥åŒ…,è‡ªåŠ¨ä¿®æ­£
 
-Ctrl+N   ²éÕÒÀà
+        Ctrl+N   æŸ¥æ‰¾ç±»
 
-Ctrl+Shift+N ²éÕÒÎÄ¼ş
+        Ctrl+Shift+N æŸ¥æ‰¾æ–‡ä»¶
 
-Ctrl+Alt+L  ¸ñÊ½»¯´úÂë
-Alt+Insert Éú³É´úÂë(Èçget,set·½·¨,¹¹Ôìº¯ÊıµÈ)
+        Ctrl+Alt+L  æ ¼å¼åŒ–ä»£ç 
+        Alt+Insert ç”Ÿæˆä»£ç (å¦‚get,setæ–¹æ³•,æ„é€ å‡½æ•°ç­‰)
 
-Ctrl+E»òÕßAlt+Shift+C  ×î½ü¸ü¸ÄµÄ´úÂë
-Ctrl+R Ìæ»»ÎÄ±¾
-Ctrl+Shift+Space ×Ô¶¯²¹È«´úÂë
-Ctrl+Alt+Space ÀàÃû»ò½Ó¿ÚÃûÌáÊ¾
+        Ctrl+Eæˆ–è€…Alt+Shift+C  æœ€è¿‘æ›´æ”¹çš„ä»£ç 
+        Ctrl+R æ›¿æ¢æ–‡æœ¬
+        Ctrl+Shift+Space è‡ªåŠ¨è¡¥å…¨ä»£ç 
+        Ctrl+Alt+Space ç±»åæˆ–æ¥å£åæç¤º
 
-Ctrl+P ·½·¨²ÎÊıÌáÊ¾
+        Ctrl+P æ–¹æ³•å‚æ•°æç¤º
 
-Ctrl+Shift+Alt+N ²éÕÒÀàÖĞµÄ·½·¨»ò±äÁ¿
+        Ctrl+Shift+Alt+N æŸ¥æ‰¾ç±»ä¸­çš„æ–¹æ³•æˆ–å˜é‡
 
-Alt+Shift+C ¶Ô±È×î½üĞŞ¸ÄµÄ´úÂë
+        Alt+Shift+C å¯¹æ¯”æœ€è¿‘ä¿®æ”¹çš„ä»£ç 
 
-Shift+F6  ÖØ¹¹-ÖØÃüÃû
+        Shift+F6  é‡æ„-é‡å‘½å
 
-Ctrl+Shift+ÏÈÉÏ¼ü
+        Ctrl+Shift+å…ˆä¸Šé”®
 
-Ctrl+X É¾³ıĞĞ
+        Ctrl+X åˆ é™¤è¡Œ
 
-Ctrl+D ¸´ÖÆĞĞ
+        Ctrl+D å¤åˆ¶è¡Œ
 
-Ctrl+/ »ò Ctrl+Shift+/  ×¢ÊÍ£¨// »òÕß £©
+        Ctrl+/ æˆ– Ctrl+Shift+/  æ³¨é‡Šï¼ˆ// æˆ–è€… ï¼‰
 
-Ctrl+J  ×Ô¶¯´úÂë
+        Ctrl+J  è‡ªåŠ¨ä»£ç 
 
-Ctrl+E ×î½ü´ò¿ªµÄÎÄ¼ş
+        Ctrl+E æœ€è¿‘æ‰“å¼€çš„æ–‡ä»¶
 
-Ctrl+H ÏÔÊ¾Àà½á¹¹Í¼
+        Ctrl+H æ˜¾ç¤ºç±»ç»“æ„å›¾
 
-Ctrl+Q ÏÔÊ¾×¢ÊÍÎÄµµ
+        Ctrl+Q æ˜¾ç¤ºæ³¨é‡Šæ–‡æ¡£
 
-Alt+F1 ²éÕÒ´úÂëËùÔÚÎ»ÖÃ
+        Alt+F1 æŸ¥æ‰¾ä»£ç æ‰€åœ¨ä½ç½®
 
-Alt+1 ¿ìËÙ´ò¿ª»òÒş²Ø¹¤³ÌÃæ°å
+        Alt+1 å¿«é€Ÿæ‰“å¼€æˆ–éšè—å·¥ç¨‹é¢æ¿
 
-Ctrl+Alt+ left/right ·µ»ØÖÁÉÏ´Îä¯ÀÀµÄÎ»ÖÃ
+        Ctrl+Alt+ left/right è¿”å›è‡³ä¸Šæ¬¡æµè§ˆçš„ä½ç½®
 
-Alt+ left/right ÇĞ»»´úÂëÊÓÍ¼
+        Alt+ left/right åˆ‡æ¢ä»£ç è§†å›¾
 
-Alt+ Up/Down ÔÚ·½·¨¼ä¿ìËÙÒÆ¶¯¶¨Î»
+        Alt+ Up/Down åœ¨æ–¹æ³•é—´å¿«é€Ÿç§»åŠ¨å®šä½
 
-Ctrl+Shift+Up/Down ´úÂëÏòÉÏ/ÏÂÒÆ¶¯¡£
+        Ctrl+Shift+Up/Down ä»£ç å‘ä¸Š/ä¸‹ç§»åŠ¨ã€‚
 
-F2 »òShift+F2 ¸ßÁÁ´íÎó»ò¾¯¸æ¿ìËÙ¶¨Î»
+        F2 æˆ–Shift+F2 é«˜äº®é”™è¯¯æˆ–è­¦å‘Šå¿«é€Ÿå®šä½
 
-´úÂë±êÇ©ÊäÈëÍê³Éºó£¬°´Tab£¬Éú³É´úÂë¡£
+        ä»£ç æ ‡ç­¾è¾“å…¥å®Œæˆåï¼ŒæŒ‰Tabï¼Œç”Ÿæˆä»£ç ã€‚
 
-Ñ¡ÖĞÎÄ±¾£¬°´Ctrl+Shift+F7 £¬¸ßÁÁÏÔÊ¾ËùÓĞ¸ÃÎÄ±¾£¬°´Esc¸ßÁÁÏûÊ§¡£
+        é€‰ä¸­æ–‡æœ¬ï¼ŒæŒ‰Ctrl+Shift+F7 ï¼Œé«˜äº®æ˜¾ç¤ºæ‰€æœ‰è¯¥æ–‡æœ¬ï¼ŒæŒ‰Escé«˜äº®æ¶ˆå¤±ã€‚
 
-Ctrl+W Ñ¡ÖĞ´úÂë£¬Á¬Ğø°´»áÓĞÆäËûĞ§¹û
+        Ctrl+W é€‰ä¸­ä»£ç ï¼Œè¿ç»­æŒ‰ä¼šæœ‰å…¶ä»–æ•ˆæœ
 
-Ñ¡ÖĞÎÄ±¾£¬°´Alt+F3 £¬Öğ¸öÍùÏÂ²éÕÒÏàÍ¬ÎÄ±¾£¬²¢¸ßÁÁÏÔÊ¾¡£
+        é€‰ä¸­æ–‡æœ¬ï¼ŒæŒ‰Alt+F3 ï¼Œé€ä¸ªå¾€ä¸‹æŸ¥æ‰¾ç›¸åŒæ–‡æœ¬ï¼Œå¹¶é«˜äº®æ˜¾ç¤ºã€‚
 
-Ctrl+Up/Down ¹â±êÌø×ªµ½µÚÒ»ĞĞ»ò×îºóÒ»ĞĞÏÂ
+        Ctrl+Up/Down å…‰æ ‡è·³è½¬åˆ°ç¬¬ä¸€è¡Œæˆ–æœ€åä¸€è¡Œä¸‹
 
-Ctrl+B ¿ìËÙ´ò¿ª¹â±ê´¦µÄÀà»ò·½·¨ 
+        Ctrl+B å¿«é€Ÿæ‰“å¼€å…‰æ ‡å¤„çš„ç±»æˆ–æ–¹æ³•
 
- 
 
-×î³£ÓÃ¿ì½İ¼ü
 
-1.Ctrl£«E£¬¿ÉÒÔÏÔÊ¾×î½ü±à¼­µÄÎÄ¼şÁĞ±í
+        æœ€å¸¸ç”¨å¿«æ·é”®
 
-2.Shift£«Click¿ÉÒÔ¹Ø±ÕÎÄ¼ş
+        1.Ctrlï¼‹Eï¼Œå¯ä»¥æ˜¾ç¤ºæœ€è¿‘ç¼–è¾‘çš„æ–‡ä»¶åˆ—è¡¨
 
-3.Ctrl£«[»ò]¿ÉÒÔÌøµ½´óÀ¨ºÅµÄ¿ªÍ·½áÎ²
+        2.Shiftï¼‹Clickå¯ä»¥å…³é—­æ–‡ä»¶
 
-4.Ctrl£«Shift£«Backspace¿ÉÒÔÌø×ªµ½ÉÏ´Î±à¼­µÄµØ·½
+        3.Ctrlï¼‹[æˆ–]å¯ä»¥è·³åˆ°å¤§æ‹¬å·çš„å¼€å¤´ç»“å°¾
 
-5.Ctrl£«F12£¬¿ÉÒÔÏÔÊ¾µ±Ç°ÎÄ¼şµÄ½á¹¹
+        4.Ctrlï¼‹Shiftï¼‹Backspaceå¯ä»¥è·³è½¬åˆ°ä¸Šæ¬¡ç¼–è¾‘çš„åœ°æ–¹
 
-6.Ctrl£«F7¿ÉÒÔ²éÑ¯µ±Ç°ÔªËØÔÚµ±Ç°ÎÄ¼şÖĞµÄÒıÓÃ£¬È»ºó°´F3¿ÉÒÔÑ¡Ôñ
+        5.Ctrlï¼‹F12ï¼Œå¯ä»¥æ˜¾ç¤ºå½“å‰æ–‡ä»¶çš„ç»“æ„
 
-7.Ctrl£«N£¬¿ÉÒÔ¿ìËÙ´ò¿ªÀà
+        6.Ctrlï¼‹F7å¯ä»¥æŸ¥è¯¢å½“å‰å…ƒç´ åœ¨å½“å‰æ–‡ä»¶ä¸­çš„å¼•ç”¨ï¼Œç„¶åæŒ‰F3å¯ä»¥é€‰æ‹©
 
-8.Ctrl£«Shift£«N£¬¿ÉÒÔ¿ìËÙ´ò¿ªÎÄ¼ş
+        7.Ctrlï¼‹Nï¼Œå¯ä»¥å¿«é€Ÿæ‰“å¼€ç±»
 
-9.Alt£«Q¿ÉÒÔ¿´µ½µ±Ç°·½·¨µÄÉùÃ÷
+        8.Ctrlï¼‹Shiftï¼‹Nï¼Œå¯ä»¥å¿«é€Ÿæ‰“å¼€æ–‡ä»¶
 
-10.Ctrl£«W¿ÉÒÔÑ¡Ôñµ¥´Ê¼Ì¶øÓï¾ä¼Ì¶øĞĞ¼Ì¶øº¯Êı
+        9.Altï¼‹Qå¯ä»¥çœ‹åˆ°å½“å‰æ–¹æ³•çš„å£°æ˜
 
-11.Alt£«F1¿ÉÒÔ½«ÕıÔÚ±à¼­µÄÔªËØÔÚ¸÷¸öÃæ°åÖĞ¶¨Î»
+        10.Ctrlï¼‹Wå¯ä»¥é€‰æ‹©å•è¯ç»§è€Œè¯­å¥ç»§è€Œè¡Œç»§è€Œå‡½æ•°
 
-12.Ctrl£«P£¬¿ÉÒÔÏÔÊ¾²ÎÊıĞÅÏ¢
+        11.Altï¼‹F1å¯ä»¥å°†æ­£åœ¨ç¼–è¾‘çš„å…ƒç´ åœ¨å„ä¸ªé¢æ¿ä¸­å®šä½
 
-13.Ctrl£«Shift£«Insert¿ÉÒÔÑ¡Ôñ¼ôÌù°åÄÚÈİ²¢²åÈë
+        12.Ctrlï¼‹Pï¼Œå¯ä»¥æ˜¾ç¤ºå‚æ•°ä¿¡æ¯
 
-14.Alt£«Insert¿ÉÒÔÉú³É¹¹ÔìÆ÷/Getter/SetterµÈ
+        13.Ctrlï¼‹Shiftï¼‹Insertå¯ä»¥é€‰æ‹©å‰ªè´´æ¿å†…å®¹å¹¶æ’å…¥
 
-15.Ctrl£«Alt£«V ¿ÉÒÔÒıÈë±äÁ¿¡£ÀıÈç°ÑÀ¨ºÅÄÚµÄSQL¸³³ÉÒ»¸ö±äÁ¿
+        14.Altï¼‹Insertå¯ä»¥ç”Ÿæˆæ„é€ å™¨/Getter/Setterç­‰
 
-16.Ctrl£«Alt£«T¿ÉÒÔ°Ñ´úÂë°üÔÚÒ»¿éÄÚ£¬ÀıÈçtry/catch
+        15.Ctrlï¼‹Altï¼‹V å¯ä»¥å¼•å…¥å˜é‡ã€‚ä¾‹å¦‚æŠŠæ‹¬å·å†…çš„SQLèµ‹æˆä¸€ä¸ªå˜é‡
 
-17.Alt£«Up and Alt£«Down¿ÉÔÚ·½·¨¼ä¿ìËÙÒÆ¶¯
+        16.Ctrlï¼‹Altï¼‹Tå¯ä»¥æŠŠä»£ç åŒ…åœ¨ä¸€å—å†…ï¼Œä¾‹å¦‚try/catch
+
+        17.Altï¼‹Up and Altï¼‹Downå¯åœ¨æ–¹æ³•é—´å¿«é€Ÿç§»åŠ¨
 
  

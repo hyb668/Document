@@ -1,1 +1,1 @@
-Ö»ÄÜ ·ÅÔÚ drawable  ÎÄ¼ş¼ĞÏÂÃæ  @drawable/xxx
+åªèƒ½ æ”¾åœ¨ drawable  æ–‡ä»¶å¤¹ä¸‹é¢  @drawable/xxx

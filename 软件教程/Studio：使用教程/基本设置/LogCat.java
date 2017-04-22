@@ -1,5 +1,5 @@
 
-Log¼¶±ð	É«Öµ
+Logçº§åˆ«	è‰²å€¼
 VERBOSE	BBBBBB
 DEBUG	0070BB
 INFO	48BB31

@@ -1,15 +1,15 @@
-ËÑË÷Ïà¹Ø£º
-1¡¢ËÑË÷²¢´ò¿ª£¨È«¾Ö£©
-Ctrl+E£ºËÑË÷×î½üÊ¹ÓÃµÄÎÄ¼þ£¬×¢ÒâÊÇÎÄ¼þ£¬ÀàÐÍÓëCtrl+Shift+NÏàÍ¬¡£
+æœç´¢ç›¸å…³ï¼š
+        1ã€æœç´¢å¹¶æ‰“å¼€ï¼ˆå…¨å±€ï¼‰
+        Ctrl+Eï¼šæœç´¢æœ€è¿‘ä½¿ç”¨çš„æ–‡ä»¶ï¼Œæ³¨æ„æ˜¯æ–‡ä»¶ï¼Œç±»åž‹ä¸ŽCtrl+Shift+Nç›¸åŒã€‚
 
-Ctrl+Shift+A£º²éÑ¯²Ù×÷¡£±ÈÈçÏëÒª¹¹½¨apk£¬Ö±½ÓËÑbuild apk¼´¿ÉÖ´ÐÐÃüÁîÁË¡£
+        Ctrl+Shift+Aï¼šæŸ¥è¯¢æ“ä½œã€‚æ¯”å¦‚æƒ³è¦æž„å»ºapkï¼Œç›´æŽ¥æœbuild apkå³å¯æ‰§è¡Œå‘½ä»¤äº†ã€‚
 
-Ctrl+Shift+N£ºGo to File£¬Í¨¹ýÎÄ¼þÃûËÑË÷Ò»¸öÎÄ¼þ¡¢Í¼Æ¬µÈ£¬ÎÄ¼þÀàÐÍ¼¸ºõ°üÀ¨ËùÓÐ¡£
+        Ctrl+Shift+Nï¼šGo to Fileï¼Œé€šè¿‡æ–‡ä»¶åæœç´¢ä¸€ä¸ªæ–‡ä»¶ã€å›¾ç‰‡ç­‰ï¼Œæ–‡ä»¶ç±»åž‹å‡ ä¹ŽåŒ…æ‹¬æ‰€æœ‰ã€‚
 
-Ctrl+Alt+Shift+N£ºSearch by symbol name£¬ËÑË÷ÀàÃû¡¢·½·¨Ãû¡¢ÊôÐÔÃûµÈ£¬ÊÇÈ«¾ÖµÄ¡£
+        Ctrl+Alt+Shift+Nï¼šSearch by symbol nameï¼Œæœç´¢ç±»åã€æ–¹æ³•åã€å±žæ€§åç­‰ï¼Œæ˜¯å…¨å±€çš„ã€‚
 
-Ctrl+N£ºËÑË÷ÀàÃû£¨°üÀ¨ÄÚ²¿Àà£©¡¢Ã¶¾ÙÃû¡£
+        Ctrl+Nï¼šæœç´¢ç±»åï¼ˆåŒ…æ‹¬å†…éƒ¨ç±»ï¼‰ã€æžšä¸¾åã€‚
 
-Shift+Shift£ºSearch Everywhere£¬ËÑË÷ËùÓÐµØ·½¡£ËüÊÇCtrl+E¡¢Ctrl+Alt+Shift+N¡¢Ctrl+N¡¢Ctrl+Shift+AµÄ×ÛºÏ£¬´ËÍâ£¬Ëü»¹¿ÉÒÔËÑË÷ASµÄ¹¤¾ß£¬ÈçDebugÊÇ¿ÉÒÔËÑ³öASµÄDebug¹¤¾ßµÄ£¬µã»÷»¹ÄÜÔËÐÐ¡£
+        Shift+Shiftï¼šSearch Everywhereï¼Œæœç´¢æ‰€æœ‰åœ°æ–¹ã€‚å®ƒæ˜¯Ctrl+Eã€Ctrl+Alt+Shift+Nã€Ctrl+Nã€Ctrl+Shift+Açš„ç»¼åˆï¼Œæ­¤å¤–ï¼Œå®ƒè¿˜å¯ä»¥æœç´¢ASçš„å·¥å…·ï¼Œå¦‚Debugæ˜¯å¯ä»¥æœå‡ºASçš„Debugå·¥å…·çš„ï¼Œç‚¹å‡»è¿˜èƒ½è¿è¡Œã€‚
 
-Ctrl+Shift+F£ºÈ«¾ÖËÑË÷£¬²»¹ý½ö½öÕë¶ÔµÄÊÇÎÄ¼þÄÚÈÝ£¬±ÈÈçÉÏÃæµÄËÑË÷·½Ê½ÎÞ·¨ÊÇÎÞ·¨ËÑË÷build.gradleÀïÃæµÄÄÚÈÝ£¬µ«ÊÇÕâ¸öÈ´¿ÉÒÔ¡£Çåµ¥ÎÄ¼þµÄÐÅÏ¢Ò²ÐèÒªÓÃÕâ¸ö½øÐÐËÑË÷µÄ¡£
+        Ctrl+Shift+Fï¼šå…¨å±€æœç´¢ï¼Œä¸è¿‡ä»…ä»…é’ˆå¯¹çš„æ˜¯æ–‡ä»¶å†…å®¹ï¼Œæ¯”å¦‚ä¸Šé¢çš„æœç´¢æ–¹å¼æ— æ³•æ˜¯æ— æ³•æœç´¢build.gradleé‡Œé¢çš„å†…å®¹ï¼Œä½†æ˜¯è¿™ä¸ªå´å¯ä»¥ã€‚æ¸…å•æ–‡ä»¶çš„ä¿¡æ¯ä¹Ÿéœ€è¦ç”¨è¿™ä¸ªè¿›è¡Œæœç´¢çš„ã€‚

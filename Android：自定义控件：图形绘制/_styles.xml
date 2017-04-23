@@ -1,0 +1,19 @@
+<resources >
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light" />
+
+    <style name="AppTheme" parent="AppBaseTheme" />
+
+    <style name="ratingBar">
+		<item name="android:layout_width">match_parent</item>
+        <item name="colorFillOff">@color/colorFillOff</item>
+        <item name="strokeWidth">0.8dip</item>
+        <item name="colorFillOn">@color/colorFillOn</item>
+        <item name="colorFillPressedOff">@color/colorFillPressedOff</item>
+        <item name="colorFillPressedOn">@color/colorFillPressedOn</item>
+        <item name="colorOutlineOff">@color/colorOutlineOff</item>
+        <item name="colorOutlineOn">@color/colorOutlineOn</item>
+        <item name="colorOutlinePressed">@color/colorOutlinePressed</item>
+    </style>
+
+</resources>

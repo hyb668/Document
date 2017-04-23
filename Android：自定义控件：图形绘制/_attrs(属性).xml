@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="OptionLayout">
+
+        <!-- 内置 CheckBox的宽度 -->
+        <attr name="chb_width" format="dimension" />
+        <!-- 内置 CheckBox的高度 -->
+        <attr name="chb_height" format="dimension" />
+		<attr name="name" format="reference" />
+		<attr name="textSizeSelected" format="dimension|reference" />
+		<attr name="isChecked" format="boolean" />
+    </declare-styleable>
+	
+//http://blog.csdn.net/congqingbin/article/details/7869730
+
+</resources>
